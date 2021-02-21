@@ -7,7 +7,7 @@
 
 - [Quem é a CominfBR](#Quem-é-a-CominfBR)
 - [Como Participar da Comunidade](#Como-Participar-da-Comunidade)
-- [Conhecendo a  Comunidade](#Conhecendo-a-Comunidade) 
+- [Conhecendo a Comunidade](#Conhecendo-a-Comunidade) 
 - [Como Contribuir com a Comunidade](#Como-Contribuir-com-a-Comunidade)
 - [Código de Conduta](#Código-de-Conduta) 
 - [Apoie-nos](#Apoie-nos) 
@@ -17,7 +17,7 @@
  
 # Como Participar da Comunidade
  
-# Conhecendo a  Comunidade
+# Conhecendo a Comunidade
 
 # Como Contribuir com a Comunidade
 
