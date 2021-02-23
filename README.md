@@ -31,7 +31,7 @@
 # Apoie-nos
 
 <p align="center">
-<a href="https://github.com/Cominfbr/Apoie"><img with="120" height="120" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.png" alt="Participe do Fórum"></a> 
+<a href="https://github.com/Cominfbr/Apoie"><img with="90" height="90" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.png" alt="Participe do Fórum"></a> 
 </p>
 
 ---
