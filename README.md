@@ -20,7 +20,7 @@
 
 # Quem é a CominfBR
 
- Significa **Com**unidade de **Inf**ormação **Br**asileira, e está ligada a assuntos de desenvolvimento como front-end, Back-end ou Full-Stack para pessoas que iniciam nas áreas de Desenvolvimento Web, Programação, Design, Ciber Segurança, Mobile e Gerenciamento de banco de dados. 
+ Ela tem como significado as siglas: **Com**unidade de **Inf**ormação **Br**asileira, e está ligada a assuntos de desenvolvimento como front-end, Back-end ou Full-Stack para pessoas que iniciam nas áreas de Desenvolvimento Web, Programação, Design, Ciber Segurança, Mobile e Gerenciamento de banco de dados. 
 <p>Todas os nossos canais são gratuitos. Nossa Comunidade tenta fazer iniciativas open-source  e qualquer pessoa pode participar, sem nenhuma interferência a nível profissional. Nós queremos ajudar pessoas, para que elas evoluam na sua profissão.</p>
  
  Temos um objetivo **único** = Colocar pessoas Capacitadas no mundo da tecnologia, usando ferramentas como : Fórum, Artigos, Grupos de estudos, etc. Tentamos aumentar os soft e hard skills dos trabalhadores nessa área de forma que sejam os melhores profissionais no futuro.
