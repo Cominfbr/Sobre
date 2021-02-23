@@ -1,5 +1,5 @@
 <p align="center">
-<img with="240" height="200" src="https://github.com/Cominfbr/Marca/blob/Master/logo_transparent.png" alt="Dê uma olhada no nosso Fórum">
+<img with="240" height="200" src="https://github.com/Cominfbr/Marca/blob/Master/logo_transparent.png" alt="Logo CominfBR">
 </p>
 <h1 align="center"> Sobre a CominfBR</h1>
 
@@ -31,7 +31,7 @@
 # Apoie-nos
 
 <p align="center">
-<a href="https://github.com/Cominfbr/Apoie"><img with="90" height="90" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.png" alt="Participe do Fórum"></a> 
+<a href="https://github.com/Cominfbr/Apoie"><img with="90" height="90" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.png" alt=" Apoie nosso trabalho "></a> 
 </p>
 
 ---
