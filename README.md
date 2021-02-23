@@ -30,4 +30,11 @@
 
 # Apoie-nos
 
+<p align="center">
+<a href="https://github.com/Cominfbr/Apoie"><img with="120" height="120" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.png" alt="Participe do Fórum"></a> 
+</p>
 
+---
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [MIT](https://github.com/Cominfbr/Sobre/blob/Master/LICENSE) para obter detalhes. 2020 - CominfBR® 
