@@ -3,6 +3,11 @@
 </p>
 <h1 align="center"> Sobre a CominfBR</h1>
 
+>_Conheça a nossa Comunidade CominfBR_
+
+<p>Olá, aqui está um canal de comunicação, os projetos dessa organização são gratuitos, tem como objetivo mostrar um conteúdo de qualidade, original e inclusivo para o Brasil. 
+  Além de incentivar as pessoas no mercado de trabalho.</p>
+
 ## Sumário
 
 - [Quem é a CominfBR](#Quem-é-a-CominfBR)
