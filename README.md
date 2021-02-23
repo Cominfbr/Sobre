@@ -28,6 +28,10 @@
 
 # Código de Conduta
 
+Dentre os conteúdos mais importantes de serem lidos para  organização é  o nosso Código de Conduta, ele é um  documento com regras estabelecidas pela nossa  organização.  Você deve lê-las primeiro para participar da nossa  comunidade e nos nossos projetos.
+
+<p align="center"><a href="https://github.com/Cominfbr/Sobre/blob/Master/C%C3%B3digo%20de%20Conduta.md">Código de Conduta :arrow_right:</a></p>
+
 # Apoie-nos
 
 <p align="center">
