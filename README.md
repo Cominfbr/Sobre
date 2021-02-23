@@ -56,7 +56,7 @@ O que precisamos em questão de conteúdo são vídeos, tutoriais, textos para c
 
 Dentre os conteúdos mais importantes de serem lidos para  organização é  o nosso Código de Conduta, ele é um  documento com regras estabelecidas pela nossa  organização.  Você deve lê-las primeiro para participar da nossa  comunidade e nos nossos projetos.
 
-<p align="center"><a href="https://github.com/Cominfbr/Sobre/blob/Master/C%C3%B3digo%20de%20Conduta.md">Código de Conduta :arrow_right:</a></p>
+<p align="center"><a href="https://github.com/Cominfbr/Sobre/blob/Master/C%C3%B3digo%20de%20Conduta.md">Código de Conduta</a> :arrow_right:</p>
 
 # Apoie-nos
 
