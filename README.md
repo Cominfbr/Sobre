@@ -1,5 +1,5 @@
 <p align="center">
-<img with="240" height="200" src="https://github.com/Cominfbr/Marca/blob/Master/logo_transparent(2).png" alt="Logo CominfBR">
+<img with="240" height="200" src="https://github.com/Cominfbr/Marca/blob/Master/logo_transparent.png" alt="Logo CominfBR">
 </p>
 <h1 align="center"> Sobre a CominfBR</h1>
 
