@@ -12,7 +12,7 @@
 
 - [Quem é a CominfBR](#Quem-é-a-CominfBR)
 - [Como Participar da Comunidade](#Como-Participar-da-Comunidade)
-- [Conhecendo a Comunidade](#Conhecendo-a-Comunidade) 
+- [Nossas Iniciativas ](#Nossas-Iniciativas ) 
 - [Como Contribuir com a Comunidade](#Como-Contribuir-com-a-Comunidade)
 - [Código de Conduta](#Código-de-Conduta) 
 - [Apoie-nos](#Apoie-nos) 
@@ -22,7 +22,7 @@
  
 # Como Participar da Comunidade
  
-# Conhecendo a Comunidade
+# Nossas Iniciativas 
 
 # Como Contribuir com a Comunidade
 
@@ -33,6 +33,8 @@ Dentre os conteúdos mais importantes de serem lidos para  organização é  o n
 <p align="center"><a href="https://github.com/Cominfbr/Sobre/blob/Master/C%C3%B3digo%20de%20Conduta.md">Código de Conduta :arrow_right:</a></p>
 
 # Apoie-nos
+
+Apoie nossa organização, só  assim poderemos ajudar outros pessoas e evoluir no âmbito profissional. Esse tópico terá um repositório exclusivo, com o fato de novos contribuidores  parte pessoas físicas e parte jurídicas. Nos ajude a crescer, assim nós todos ganhamos.
 
 <p align="center">
 <a href="https://github.com/Cominfbr/Apoie"><img with="90" height="90" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.png" alt=" Apoie nosso trabalho "></a> 
