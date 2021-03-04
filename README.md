@@ -63,7 +63,7 @@ Dentre os conteúdos mais importantes de serem lidos para  organização é  o n
 Apoie nossa organização, só  assim poderemos ajudar outros pessoas e evoluir no âmbito profissional. Esse tópico terá um repositório exclusivo, com o fato de novos contribuidores  parte pessoas físicas e parte jurídicas. Nos ajude a crescer, assim nós todos ganhamos.
 
 <p align="center">
-<a href="https://github.com/Cominfbr/Apoie"><img with="90" height="90" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.png" alt=" Apoie nosso trabalho "></a> 
+<a href="https://github.com/Cominfbr/Apoie"><img with="90" height="90" src="https://github.com/Cominfbr/Sobre/blob/Master/Apoie.jpg" alt=" Apoie nosso trabalho "></a> 
 </p>
 
 ---
