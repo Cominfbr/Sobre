@@ -32,7 +32,7 @@ Conheça um pouco dos nossos projetos inseridos aqui, dê uma olhada e nos sigam
 - [Medium](#) 
 - [Messenger](#) 
 - [Twitter](#) 
-- [LinkedIn](#) 
+- [LinkedIn](https://linkedin.com/company/cominf-br) 
 - [Telegram](#) 
 
 # Nossas Iniciativas 
