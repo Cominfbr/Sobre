@@ -69,5 +69,5 @@ Apoie nossa organização, só  assim poderemos ajudar outros pessoas e evoluir 
 ---
 ## Licença
 
-Sobre © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/sobre/blob/master/LICENSE">licença MIT</a>. De autoria e manutenção de Carlos Vítor com a ajuda de <a href="https://github.com/Cominfbr/sobre/pulse">colaboradores</a>.
+Sobre © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/sobre/blob/master/LICENSE">licença MIT</a>. De autoria e manutenção de <a href="https://github.com/carlosvitr">Carlos Vítor</a>com a ajuda de <a href="https://github.com/Cominfbr/sobre/pulse">colaboradores</a>.
 > Github: <a href="github.com/cominfbr">@Cominfbr</a> • Twitter: <a href="twitter.com/cominfbr">@Cominfbr</a> • LinkedIn: <a href="linkedin.com/company/cominfbr">Cominf-br</a>
