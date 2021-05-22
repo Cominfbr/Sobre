@@ -34,7 +34,7 @@ Conheça um pouco dos nossos projetos inseridos aqui, dê uma olhada e nos sigam
 - [Twitter](#) 
 - [LinkedIn](https://linkedin.com/company/cominf-br) 
 - [Telegram](#) 
-- [Discord](https://discord.gg/2wj7FC6C)
+- [Discord](https://discord.gg/FgAy6zbZsg)
 
 # Nossas Iniciativas 
 <p>
